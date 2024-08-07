@@ -46,6 +46,6 @@
         <a href="https://linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-223189?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" align="left"/></a>
     </p>
 
-    <img id="preview" src="https://komarev.com/ghpvc/?username=Chetanya1008&color=grey" alt="Profile views">
+<img id="preview" src="https://komarev.com/ghpvc/?username=Chetanya1008&color=grey" alt="Profile views">
 </body>
 </html>

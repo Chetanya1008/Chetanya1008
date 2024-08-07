@@ -41,9 +41,9 @@
     </a>
 <h2>Connect with me:</h2>
     <p>
-        <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-DA100B?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-        <a href="https://twitter.com/your-twitter-handle"><img src="https://img.shields.io/badge/Twitter-1672EC?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" align="left"/></a>
-        <a href="https://linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-223189?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" align="left"/></a>
+        <a href="mailto:chonkarchetanya@gmail.com"><img src="https://img.shields.io/badge/Gmail-DA100B?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+        <a href="https://twitter.com/Ch14935Chonkar"><img src="https://img.shields.io/badge/Twitter-1672EC?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" align="left"/></a>
+        <a href="https://linkedin.com/in/https://www.linkedin.com/in/chetanya-chonkar-8269791a9"><img src="https://img.shields.io/badge/LinkedIn-223189?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" align="left"/></a>
     </p>
 
 <img id="preview" src="https://komarev.com/ghpvc/?username=Chetanya1008&color=grey" alt="Profile views">

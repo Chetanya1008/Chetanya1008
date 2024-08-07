@@ -3,8 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Chetanya Chonkar's Portfolio</title>
-</head>
 
 <body>
     <h1 class="Heading"><center>Hello World! I'm Chetanya Chonkar</center></h1>
@@ -31,24 +29,17 @@
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
         <img src="https://img.shields.io/badge/DevOps-3D3D3D?style=for-the-badge&logo=devops&logoColor=white" alt="DevOps" />
     </p>
-    
     <h2>Stats</h2>    
-
-    <img src="https://github-readme-stats.vercel.app/api?username=Chetanya1008&show_icons=true&theme=radical" alt="Chetanya's GitHub stats" />
-
-    <h2>Languages</h2>
-
-    <a href="https://github.com/Chetanya1008/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api?username=Chetanya1008&show_icons=true&theme=radical" alt="Chetanya's GitHub stats" />
+<h2>Languages</h2>
+<a href="https://github.com/Chetanya1008/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chetanya1008&layout=compact&theme=github_dark" alt="Top Languages" />
     </a>
-
-    <h2>Streak</h2>
-
-    <a href="https://git.io/streak-stats">
+<h2>Streak</h2>
+<a href="https://git.io/streak-stats">
         <img src="https://streak-stats.demolab.com/?user=Chetanya1008&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
     </a>
-
-    <h2>Connect with me:</h2>
+<h2>Connect with me:</h2>
     <p>
         <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-DA100B?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
         <a href="https://twitter.com/your-twitter-handle"><img src="https://img.shields.io/badge/Twitter-1672EC?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" align="left"/></a>
